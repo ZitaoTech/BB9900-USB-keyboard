@@ -8,7 +8,7 @@ This mini Keyboard is using the original Blackberry 9900 keyboard with Trackpad 
 
 The keyboard has not only keys but also includes an optical navigation trackpad, which located in the upper-middle area. This optical navigation sensor can function as a mouse or a scroll wheel. The whole keyboard has backlighting, and the optical navigation button area also has backlighting. In the default firmware, when the Caps Lock is enabled, the backlight for the optical navigation trackpad will be turned on; when Caps Lock is disabled, the backlight for the optical navigation will be turned off. Additionally, the keyboard backlight can be manually toggled on or off. On the side of the USB Type-C female port, there are two additional side buttons that provide extra key functions and enhance ergonomics.
 
-Below is a key legend for the important keys on the default firmware's Layer 0:
+Below is a schematic representation for the important keys on the default firmware's Layer 0:
 
 
 ### customize your own keymap:
