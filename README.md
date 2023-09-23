@@ -14,3 +14,5 @@ Below is a key legend for the important keys on the default firmware's Layer 0:
 ### customize your own keymap:
 
 Due to the limited number of keys on the keyboard, the default firmware has configured the two keys in the bottom right corner to serve as the second and third layer activation keys. Since everyone has its varying preferences and interpretations of their keyboard layouts, it may be necessary to customize the key layout and keycode for this keyboard. The default firmware supports online key remapping through VIA. Toturials:
+
+## Default Layout and Layers
