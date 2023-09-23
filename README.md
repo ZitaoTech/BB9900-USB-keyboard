@@ -21,9 +21,12 @@ Due to the limited number of keys on the keyboard, the default firmware has conf
 Layout 0:
 
 ![Layout0](https://i.imgur.com/0Pvp2nG.png)
+
 Layout Lower:
 
 ![Layout Lower](https://i.imgur.com/ZXJmXin.png)
+
 Layout Raise:
 
 ![Layout Raise](https://i.imgur.com/PozduM0.png)
+
