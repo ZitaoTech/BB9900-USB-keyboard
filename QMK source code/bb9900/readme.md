@@ -1,6 +1,5 @@
 # bb9900 USB Keyboard
-![Planck](https://imgur.com/IzJRhqp.jpg)
-[bb9900_USB_Keyboard.](https://imgur.com/IzJRhqp)
+![bb9900_USB_Keyboard.](https://imgur.com/IzJRhqp.jpg)
 
 bb9900 USB Keyboard is a mini keyboard, which based on the keyboard on blackberry 9900 and with the processor RP2040 resulted 
 
