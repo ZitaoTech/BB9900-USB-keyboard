@@ -4,6 +4,7 @@
 This mini Keyboard is using the original Blackberry 9900 keyboard with Trackpad and powered by the Raspberry Pi Rp2040 Microcontroller and operates under QMK Firmware, which transforms itself into a USB HID Keyboard and Mouse combo. The device has a USB Type-C female port, allowing it to connect to a smartphone using a USB-C to USB-C cable or to a computer using a USB-A to USB-C cable. This Keyboard is universally compatible across all platforms, including Android and iOS smartphones, Windows, Linux, and macOS computers, as well as various tablets.
 
 [Brief video of using this keyboard](https://www.youtube.com/watch?v=568L-P2tBwc)
+
 If you have any questions, you are welcome to join the [Discord community](https://discord.gg/fp7NGfmV)
 
 ## Features
