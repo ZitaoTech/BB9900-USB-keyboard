@@ -5,7 +5,7 @@ This mini Keyboard is using the original Blackberry 9900 keyboard with Trackpad 
 
 [Brief video of using this keyboard](https://www.youtube.com/watch?v=568L-P2tBwc)
 
-If you have any questions, you are welcome to join the [Discord community](https://discord.gg/fp7NGfmV)
+If you have any questions, you are welcome to join the [Discord community](https://discord.gg/PybEghmf8F)
 
 Hardware availability: [Tindie Store](https://www.tindie.com/products/zitaotech/blackberry-bb9900-usb-keyboard-with-trackpad/)
 
