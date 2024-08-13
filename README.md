@@ -26,6 +26,11 @@ Below is a schematic representation for the important keys on the default firmwa
 Due to the limited number of keys on the keyboard, the default firmware has configured the two keys in the bottom right corner to serve as the second and third layer activation keys. Since everyone has its varying preferences and interpretations of their keyboard layouts, it may be necessary to customize the key layout and keycode for this keyboard. The default firmware supports online key remapping through [VIA](https://www.caniusevia.com).
 ![VIA](https://i.imgur.com/a0VlyBl.png)
 
+### V2 version:
+
+If you buy the keyboards after 01.08.2024, the keyboard you buy is the V2 version, you can customize the keymap in [VIAL](https://vial.rocks/) page, which is more powerful and includes Tap dance function.
+
+
 ## Default Layout and Layers
 Layout 0:
 
